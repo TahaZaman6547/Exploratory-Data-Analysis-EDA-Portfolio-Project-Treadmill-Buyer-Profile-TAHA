@@ -1,4 +1,5 @@
 EDA Portfolio Project (AeroFit Treadmill Buyer Analysis) 
+
 📌 Project Overview
 This project performs Exploratory Data Analysis (EDA) on AeroFit treadmill sales data to identify key customer characteristics influencing treadmill purchases. The goal is to derive actionable insights to enhance marketing strategies and sales performance.
 
